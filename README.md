@@ -16,3 +16,5 @@
     <a href="https://www.twitch.tv/chingh_yt" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1450901581876973568/0bHBmqXe_400x400.png" width="50" height="50"/> </a> 
     <a href="https://discord.gg/hVBR4DVd" target="_blank"> <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" width="50" height="50"/> </a>       
 </p>
+
+<img src="https://i.ytimg.com/vi/V0Fi78sOYA4/hqdefault.jpg" width="400" height="250"/>
