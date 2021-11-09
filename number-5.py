@@ -1,8 +1,8 @@
 import turtle
 
-turtle.bgcolor('green')
+turtle.bgcolor('green') #background color: green
 gh = turtle.Turtle()  # gh = variable
-gh.color('yellow', 'green')  # line color: yellow ; background color = green
+gh.color('yellow', 'green')  # line color: yellow ; inside shape color = green
 gh.shape('turtle')  # shape = turtle
 # gh.pensize(40)  # pen size
 gh.speed(10)  # drawing speed
