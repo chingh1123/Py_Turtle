@@ -2,7 +2,7 @@
 ![code quality](https://img.shields.io/codefactor/grade/github/chinghytb/Py_Turtle/main)
 ![license](https://img.shields.io/github/license/chinghytb/Py_Turtle)
 ![last commit](https://img.shields.io/github/last-commit/chinghytb/Py_Turtle)
-![Python Version](https://www.python.org/downloads/release/python-395/)
+![Python Version](https://img.shields.io/github/pyproject-toml/dependency-version/chinghytb/Py_Turtle)
 
 - https://www.javatpoint.com/python-turtle-programming
 - https://docs.python.org/zh-tw/3/library/turtle.html#module-turtle
